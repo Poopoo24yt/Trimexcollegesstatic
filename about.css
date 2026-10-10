@@ -34,7 +34,7 @@
 .profile-banner {
   height: 120px;
   background:
-    url(img/banner.png) center / cover,
+    url(img/banner.jpg) center / cover,
     linear-gradient(120deg, #1a0505 0%, var(--maroon) 55%, var(--red) 100%);
 }
 
