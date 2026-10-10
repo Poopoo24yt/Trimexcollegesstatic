@@ -220,7 +220,7 @@ nav a.cta {
 .hero {
   position: relative;
   color: #fff;
-  background: linear-gradient(105deg, rgba(20, 6, 6, .93) 38%, rgba(122, 0, 0, .55)), url(buildingschoolGIFbg.gif) center/cover;
+  background: linear-gradient(105deg, rgba(20, 6, 6, .93) 38%, rgba(122, 0, 0, .55)), url(img/buildingschoolGIFbg.gif) center/cover;
 }
 
 .hero .in {
