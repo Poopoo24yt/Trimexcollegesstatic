@@ -151,20 +151,8 @@
 
   <footer>CCS &copy; TRIMEX CONNECT 2026</footer>
 
-  <script>
-    document.addEventListener("click", (event) => {
-      const clickedLink = event.target.closest("a");
-
-      document.querySelectorAll("details[open]").forEach((dropdown) => {
-        if (clickedLink || !dropdown.contains(event.target)) {
-          dropdown.removeAttribute("open");
-        }
-      });
-    });
-  </script>
-
+    <!--TS FOR MY JAVASCRIPT RAWR-->
+  <script src="script.js" defer></script>
 </body>
 </html>
 
-<!--TS FOR MY JAVASCRIPT RAWR-->
-<script src="script.js" defer></script>
